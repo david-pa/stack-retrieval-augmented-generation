@@ -159,7 +159,15 @@
 							"required": false,
 							"type": "string",
 							"hidden": false,
-							"default": "us-south"
+							"default": "us-south",
+							"custom_config": {
+								"type": "vpc_region",
+								"grouping": "deployment",
+								"original_grouping": "deployment",
+								"config_constraints": {
+									"generationType": "2"
+								}
+							}
 						},
 						{
 							"name": "sample_app_git_url",
