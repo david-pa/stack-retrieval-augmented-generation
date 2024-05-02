@@ -50,7 +50,7 @@
 	"members": [
 		{
 			"name": "1 - Account Infrastructure Base",
-			"version_locator": "e316810f-5995-4f76-a447-15353a9ff649.7e3fa528-83c2-4b74-9a61-0e1fee80d8a5",
+			"version_locator": "1082e7d2-5e2f-0a11-a3bc-f88a8e1931fc.7e3fa528-83c2-4b74-9a61-0e1fee80d8a5-global",
 			"inputs": [
 				{
 					"name": "prefix",
@@ -96,7 +96,7 @@
 		},
 		{
 			"name": "2a - Security Service - Key Management",			
-			"version_locator": "e316810f-5995-4f76-a447-15353a9ff649.7f677852-239b-487d-89ae-1b4311b92468",
+			"version_locator": "1082e7d2-5e2f-0a11-a3bc-f88a8e1931fc.7f677852-239b-487d-89ae-1b4311b92468-global",
 			"inputs": [
 				{
 					"name": "resource_group_name",					
@@ -118,7 +118,7 @@
 		},
 		{
 			"name": "2b - Security Service - Secret Manager",
-			"version_locator": "e316810f-5995-4f76-a447-15353a9ff649.06bc3f84-e029-47b5-8c02-a7d7628284b4",
+			"version_locator": "1082e7d2-5e2f-0a11-a3bc-f88a8e1931fc.06bc3f84-e029-47b5-8c02-a7d7628284b4-global",
 			"inputs": [
 				{
 					"name": "prefix",					
@@ -148,7 +148,7 @@
 		},
 		{
 			"name": "2c - Security Service - Security Compliance Center",			
-			"version_locator": "e316810f-5995-4f76-a447-15353a9ff649.009f4577-d539-4a8f-a35d-986c80a0d649",
+			"version_locator": "1082e7d2-5e2f-0a11-a3bc-f88a8e1931fc.009f4577-d539-4a8f-a35d-986c80a0d649-global",
 			"inputs": [
 				{
 					"name": "ibmcloud_api_key",
@@ -182,7 +182,7 @@
 		},
 		{
 			"name": "3 - Observability - Logging Monitoring Activity Tracker",
-			"version_locator": "e316810f-5995-4f76-a447-15353a9ff649.ba56337c-fd43-46dd-bd09-65795b28d460",
+			"version_locator": "1082e7d2-5e2f-0a11-a3bc-f88a8e1931fc.ba56337c-fd43-46dd-bd09-65795b28d460-global",
 			"inputs": [
 				{
 					"name": "ibmcloud_api_key",
@@ -208,7 +208,7 @@
 		},
 		{			
 			"name": "4 - WatsonX SaaS services",
-			"version_locator": "e316810f-5995-4f76-a447-15353a9ff649.fe96b67f-dee6-4b63-99b9-703317c1dbff",
+			"version_locator": "1082e7d2-5e2f-0a11-a3bc-f88a8e1931fc.fe96b67f-dee6-4b63-99b9-703317c1dbff-global",
 			"inputs": [
 				{
 					"name": "ibmcloud_api_key",
@@ -262,7 +262,7 @@
 		},
 		{			
 			"name": "5 - Generative AI Sample App - Code Engine Toolchain Config",
-			"version_locator": "e316810f-5995-4f76-a447-15353a9ff649.eb238b36-188e-46a6-a3c9-9d5b43948484",
+			"version_locator": "1082e7d2-5e2f-0a11-a3bc-f88a8e1931fc.eb238b36-188e-46a6-a3c9-9d5b43948484-global",
 			"inputs": [
 				{
 					"name": "ibmcloud_api_key",
@@ -356,7 +356,7 @@
 		},
 		{			
 			"name": "6 - Sample RAG app configuration",
-			"version_locator": "e316810f-5995-4f76-a447-15353a9ff649.730ffbeb-fedc-4575-8422-ac655e81d70a",
+			"version_locator": "1082e7d2-5e2f-0a11-a3bc-f88a8e1931fc.730ffbeb-fedc-4575-8422-ac655e81d70a-global",
 			"inputs": [
 				{
 					"name": "toolchain_region",
